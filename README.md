@@ -13,6 +13,8 @@ The full article [(Franchini, et al. 2022)](https://www.biorxiv.org/content/10.1
 
 On-line tutorial can be found [HERE](https://github.com/gambalab/gficf)
 
+Datasets used in the manuscript are available on figshare at following DOI: [10.6084/m9.figshare.22109414](https://figshare.com/articles/dataset/Single-cell_gene_set_enrichment_analysis_and_transfer_learning_for_functional_annotation_of_scRNA-seq_data/22109414)
+
 ## Figures
 
 ![alt text](https://github.com/gambalab/scGSA_scMAP_manuscript/blob/main/figures/Figure_01.png?raw=true)
